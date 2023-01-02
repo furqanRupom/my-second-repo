@@ -4,3 +4,8 @@
     color: #f9004d;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+p,h1{
+    padding: 2rem;
+    margin: 2rem;
+}
