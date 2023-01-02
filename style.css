@@ -1,11 +1,11 @@
 
 *{
     background-color: rgb(49, 49, 165);
-    color: #f9004d;
+    color: #fff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-p,h1{
+p,h1,h2{
     padding: 2rem;
     margin: 2rem;
 }
